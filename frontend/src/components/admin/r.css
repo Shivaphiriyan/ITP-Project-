@@ -1,0 +1,15 @@
+.btnreport{
+    display: inline-block;
+    position:relative;
+    height:max-content;
+    width:max-content;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    background-color: #751212;
+    color:white;
+    left:100px;
+    top: 0;
+    border-radius: 4px;
+}
